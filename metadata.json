@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Circle of Fifths Explorer",
+  "description": "A web application designed to help music students visually and audibly understand key signatures, scales, and chord relationships using an interactive circle of fifths, a virtual piano, and chord displays.",
+  "requestFramePermissions": []
+}
